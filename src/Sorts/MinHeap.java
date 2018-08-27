@@ -48,12 +48,11 @@ public class MinHeap {
     @Test
     public void ShiYongCeShi() { // 使用测试。
         int i, size, data[] = {0, 5, 6, 10, 8, 3, 2, 19, 9, 11}; // 注意下标为 0 的元素无用。
-        size = data.length;
 
         MinHeap.heap(data);
         MinHeap.maxHeapSort(data);
 
-        for (i = 1; i < size; i++)
+        for (i = 1; i < data.length; i++)
             System.out.print("[" + data[i] + "] ");
 
         System.out.println();
