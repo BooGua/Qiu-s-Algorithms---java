@@ -1,4 +1,4 @@
-package JianZhiOffer;
+package OfferJianZhi;
 
 import org.junit.Test;
 
