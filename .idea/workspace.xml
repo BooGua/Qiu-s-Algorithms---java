@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7ec38d89-1476-46cf-9ca6-35092f9d6198" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Another/AllPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Another/AllPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +19,44 @@
       <file leaf-file-name="AllPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Another/AllPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="150">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WanMeiShiJie_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WanMeiShiJie_2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -29,8 +65,8 @@
       <file leaf-file-name="Test14.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="480">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#932#933#0" expanded="true" />
                 <element signature="e#993#994#0" expanded="true" />
@@ -42,23 +78,17 @@
       <file leaf-file-name="_360_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/_360_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="570">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_360_2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_360_2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/_360_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-98">
-              <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-              <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1920">
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -90,15 +120,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectiveCallable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -123,14 +144,16 @@
         <option value="$PROJECT_DIR$/src/Graph/TreeTraversal.java" />
         <option value="$PROJECT_DIR$/src/Graph/PreOrdersAndInOrders.java" />
         <option value="$PROJECT_DIR$/src/Graph/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Another/AllPermutation.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer/Test14.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer/Test15.java" />
         <option value="$PROJECT_DIR$/src/JianZhiOffer/Test16.java" />
         <option value="$PROJECT_DIR$/src/OfferJianZhi/Test14.java" />
         <option value="$PROJECT_DIR$/src/OfferZhenTi/_360_1.java" />
         <option value="$PROJECT_DIR$/src/OfferZhenTi/_360_2.java" />
+        <option value="$PROJECT_DIR$/src/Another/AllPermutation.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_1.java" />
+        <option value="$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_2.java" />
       </list>
     </option>
   </component>
@@ -144,9 +167,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="665" />
-    <option name="width" value="1262" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="527" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -157,7 +181,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -211,6 +234,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +257,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit._360_2.test">
+  <component name="RunManager" selected="Application.WanMeiShiJie_2">
+    <configuration name="WanMeiShiJie_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfferZhenTi.WanMeiShiJie_1" />
+      <module name="Qiu`s Algorithms - Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfferZhenTi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="WanMeiShiJie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfferZhenTi.WanMeiShiJie_2" />
+      <module name="Qiu`s Algorithms - Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfferZhenTi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="_360_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OfferZhenTi._360_1" />
       <module name="Qiu`s Algorithms - Java" />
@@ -244,64 +288,18 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test14.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AllPermutation.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qiu`s Algorithms - Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfferJianZhi.*" />
+          <option name="PATTERN" value="Another.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test14" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Test15.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Qiu`s Algorithms - Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfferJianZhi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test15" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Test16.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Qiu`s Algorithms - Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfferJianZhi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test16" />
+      <option name="PACKAGE_NAME" value="Another" />
+      <option name="MAIN_CLASS_NAME" value="Another.AllPermutation" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -337,19 +335,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Test14.test" />
-      <item itemvalue="JUnit.Test15.test" />
-      <item itemvalue="JUnit.Test16.test" />
       <item itemvalue="Application._360_1" />
       <item itemvalue="JUnit._360_2.test" />
+      <item itemvalue="JUnit.AllPermutation.test" />
+      <item itemvalue="Application.WanMeiShiJie_1" />
+      <item itemvalue="Application.WanMeiShiJie_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WanMeiShiJie_2" />
+        <item itemvalue="Application.WanMeiShiJie_1" />
+        <item itemvalue="JUnit.AllPermutation.test" />
         <item itemvalue="JUnit._360_2.test" />
         <item itemvalue="Application._360_1" />
-        <item itemvalue="JUnit.Test16.test" />
-        <item itemvalue="JUnit.Test15.test" />
-        <item itemvalue="JUnit.Test14.test" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +369,8 @@
       <workItem from="1535248951776" duration="14849000" />
       <workItem from="1535331866503" duration="6025000" />
       <workItem from="1535354281124" duration="3802000" />
-      <workItem from="1535418130398" duration="5291000" />
+      <workItem from="1535418130398" duration="9179000" />
+      <workItem from="1535516924384" duration="10431000" />
     </task>
     <task id="LOCAL-00001" summary="添加小顶堆排序。">
       <created>1534645834290</created>
@@ -415,16 +414,17 @@
       <option name="project" value="LOCAL" />
       <updated>1535424392167</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加360公司2018年春招真题——扑克牌博弈问题。">
+      <created>1535441267758</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535441267758</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test15_test - 2018.08.27 at 10h 07m 34s.xml">
-      <configuration name="Test15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test15_test - 2018.08.27 at 10h 08m 08s.xml">
-      <configuration name="Test15.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test15_test - 2018.08.27 at 10h 08m 18s.xml">
       <configuration name="Test15.test" configurationId="JUnit" />
     </history-entry>
@@ -449,9 +449,15 @@
     <history-entry file="_360_2_test - 2018.08.28 at 14h 37m 02s.xml">
       <configuration name="_360_2.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="_360_2_test - 2018.08.28 at 15h 26m 35s.xml">
+      <configuration name="_360_2.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AllPermutation_test - 2018.08.29 at 12h 34m 04s.xml">
+      <configuration name="AllPermutation.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52786000" />
+    <option name="totallyTimeSpent" value="67105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -471,7 +477,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14392324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -499,28 +505,23 @@
     <MESSAGE value="添加了全排列等算法。" />
     <MESSAGE value="添加了n的m次方等算法。" />
     <MESSAGE value="添加360公司2018年春招真题——剪气球。" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加360公司2018年春招真题——剪气球。" />
+    <MESSAGE value="添加360公司2018年春招真题——扑克牌博弈问题。" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加360公司2018年春招真题——扑克牌博弈问题。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_1.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Graph/PreOrdersAndInOrders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph/TreeNodeTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -754,23 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Another/AllPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -836,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="480">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#932#933#0" expanded="true" />
             <element signature="e#993#994#0" expanded="true" />
@@ -847,21 +831,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/_360_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="570">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/_360_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        <state relative-caret-position="1920">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Another/AllPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferZhenTi/WanMeiShiJie_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
         </state>
       </provider>
     </entry>
