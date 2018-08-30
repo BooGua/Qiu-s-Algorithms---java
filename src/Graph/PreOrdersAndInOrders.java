@@ -9,7 +9,7 @@ import java.util.Arrays;
  */
 public class PreOrdersAndInOrders {
 
-    private TreeNode buildTree(int[] preOrders, int[] inOrders) {
+    public TreeNode buildTree(int[] preOrders, int[] inOrders) {
         if (preOrders.length == 0 || inOrders.length == 0) {
             return null;
         }
@@ -32,8 +32,14 @@ public class PreOrdersAndInOrders {
 
     @Test
     public void ceShiXianXuHouXu() {
-        int[] preOrders = new int[]{1, 2, 4, 8, 5, 3, 6, 7};
-        int[] inOrders = new int[]{8, 4, 2, 5, 1, 6, 3, 7};
+//        int[] preOrders = new int[]{1, 2, 4, 8, 5, 3, 6, 7};
+//        int[] inOrders = new int[]{8, 4, 2, 5, 1, 6, 3, 7};
+
+        int[] preOrders = {1, 2, 4, 5, 3};
+        int[] inOrders = {4, 2, 5, 1, 3};
+
+//        int[] preOrders = {1,2,4,5,3};
+//        int[] inOrders = {4,5,2,1,3};
 
         TreeNode treeNode = buildTree(preOrders, inOrders); // 根据前序、中序生成树。
         treeNode.PrintLevelOrder(); // 层序输出。
