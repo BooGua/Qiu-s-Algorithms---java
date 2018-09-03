@@ -2,6 +2,7 @@ package PaiLieZuHe;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
@@ -212,5 +213,4 @@ public class PermutationAndCombination {
             combinationSelect(dataList, i + 1, resultList, resultIndex + 1);
         }
     }
-
 }
