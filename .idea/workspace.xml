@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7ec38d89-1476-46cf-9ca6-35092f9d6198" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OfferJianZhi/Test46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfferJianZhi/Test46.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test34.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test34.java">
+      <file leaf-file-name="Test47.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test47.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="300">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test48.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test48.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,20 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test39.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test39.java">
+      <file leaf-file-name="Test49.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test49.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test40.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test40.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2850">
-              <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+            <state relative-caret-position="690">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,71 +48,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test41.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test41.java">
+      <file leaf-file-name="Test50.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test50.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test52.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test52.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test56.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test56.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test56_2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test56_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-570">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test42.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test42.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test43.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test43.java">
+      <file leaf-file-name="Test51.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test51.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test44.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test44.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test46.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test46.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test45.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test45.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Graph/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -176,6 +168,14 @@
         <option value="$PROJECT_DIR$/src/OfferJianZhi/Test44.java" />
         <option value="$PROJECT_DIR$/src/OfferJianZhi/Test45.java" />
         <option value="$PROJECT_DIR$/src/OfferJianZhi/Test46.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test47.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test48.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test49.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test50.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test51.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test52.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test56.java" />
+        <option value="$PROJECT_DIR$/src/OfferJianZhi/Test56_2.java" />
       </list>
     </option>
   </component>
@@ -213,12 +213,6 @@
               <item name="Qiu`s Algorithms - Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Qiu`s Algorithms - Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Qiu`s Algorithms - Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Qiu`s Algorithms - Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Qiu`s Algorithms - Java" type="b2602c69:ProjectViewProjectNode" />
@@ -279,8 +273,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test46.test">
-    <configuration name="Test42.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Test56_2.test">
+    <configuration name="Test49.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qiu`s Algorithms - Java" />
       <extension name="coverage">
         <pattern>
@@ -291,7 +285,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test42" />
+      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test49" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -303,7 +297,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Test44.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test50.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qiu`s Algorithms - Java" />
       <extension name="coverage">
         <pattern>
@@ -314,7 +308,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test44" />
+      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test50" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -326,7 +320,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Test44.testTrueIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test52.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qiu`s Algorithms - Java" />
       <extension name="coverage">
         <pattern>
@@ -337,30 +331,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test44" />
-      <option name="METHOD_NAME" value="testTrueIndex" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Test45.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Qiu`s Algorithms - Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfferJianZhi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test45" />
+      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test52" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -372,7 +343,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Test46.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test56_2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Qiu`s Algorithms - Java" />
       <extension name="coverage">
         <pattern>
@@ -383,7 +354,30 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="OfferJianZhi" />
-      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test46" />
+      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test56_2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test56.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Qiu`s Algorithms - Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfferJianZhi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="OfferJianZhi" />
+      <option name="MAIN_CLASS_NAME" value="OfferJianZhi.Test56" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -396,19 +390,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Test42.test" />
-      <item itemvalue="JUnit.Test44.test" />
-      <item itemvalue="JUnit.Test44.testTrueIndex" />
-      <item itemvalue="JUnit.Test45.test" />
-      <item itemvalue="JUnit.Test46.test" />
+      <item itemvalue="JUnit.Test49.test" />
+      <item itemvalue="JUnit.Test50.test" />
+      <item itemvalue="JUnit.Test52.test" />
+      <item itemvalue="JUnit.Test56.test" />
+      <item itemvalue="JUnit.Test56_2.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test46.test" />
-        <item itemvalue="JUnit.Test45.test" />
-        <item itemvalue="JUnit.Test44.test" />
-        <item itemvalue="JUnit.Test44.testTrueIndex" />
-        <item itemvalue="JUnit.Test42.test" />
+        <item itemvalue="JUnit.Test56_2.test" />
+        <item itemvalue="JUnit.Test56.test" />
+        <item itemvalue="JUnit.Test52.test" />
+        <item itemvalue="JUnit.Test50.test" />
+        <item itemvalue="JUnit.Test49.test" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +432,11 @@
       <workItem from="1535874957053" duration="2753000" />
       <workItem from="1535933680761" duration="25436000" />
       <workItem from="1536023004658" duration="4318000" />
-      <workItem from="1536048221553" duration="3525000" />
+      <workItem from="1536048221553" duration="5278000" />
+      <workItem from="1536071429831" duration="1159000" />
+      <workItem from="1536107055440" duration="9628000" />
+      <workItem from="1536117406078" duration="15020000" />
+      <workItem from="1536199116043" duration="2430000" />
     </task>
     <task id="LOCAL-00001" summary="添加小顶堆排序。">
       <created>1534645834290</created>
@@ -517,43 +515,50 @@
       <option name="project" value="LOCAL" />
       <updated>1535980946116</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加剑指Offer面试题。">
+      <created>1536051781512</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1536051781512</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test46_test - 2018.09.04 at 16h 53m 19s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 30m 12s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 16h 56m 20s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 30m 36s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 16h 56m 32s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 31m 41s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 16h 56m 52s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 32m 08s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 16h 56m 56s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 32m 40s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 16h 57m 09s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 32m 55s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 17h 01m 12s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 34m 12s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 17h 02m 09s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 34m 23s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 17h 02m 20s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 35m 25s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test46_test - 2018.09.04 at 17h 02m 27s.xml">
-      <configuration name="Test46.test" configurationId="JUnit" />
+    <history-entry file="Test56_2_test - 2018.09.06 at 10h 38m 03s.xml">
+      <configuration name="Test56_2.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151849000" />
+    <option name="totallyTimeSpent" value="181839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -568,19 +573,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26717559" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15671642" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -624,60 +629,10 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Graph/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="59" column="52" lean-forward="true" selection-start-line="59" selection-start-column="52" selection-end-line="59" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Graph/PreOrdersAndInOrders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorts/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorts/MinHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorts/一维数组的大顶堆.java" />
     <entry file="file://$PROJECT_DIR$/src/Search/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -808,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -858,20 +806,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Another/AllPermutation.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PaiLieZuHe/PermutationAndCombination.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5940">
           <caret line="205" column="58" selection-start-line="205" selection-start-column="58" selection-end-line="205" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -879,9 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3000">
           <caret line="102" selection-start-line="102" selection-end-line="103" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,9 +824,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2850">
           <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,9 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,14 +891,96 @@
     <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test44.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="2280">
+          <caret line="76" column="29" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test49.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test51.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfferJianZhi/Test56_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-570">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
