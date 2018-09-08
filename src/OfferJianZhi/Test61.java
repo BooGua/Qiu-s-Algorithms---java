@@ -20,10 +20,44 @@ public class Test61 {
             int[] ints = new int[5];
             SuiJiChouPai(ints, pokers);
             System.out.println(Arrays.toString(ints));
-            boolean isShunZi = IsShunZi(ints);
-            System.out.println(isShunZi);
+//            boolean isShunZi = IsShunZi(ints);
+            boolean isShunZi2 = IsShunZi2(ints);
+            System.out.println(isShunZi2);
             System.out.println("-------------------------");
         }
+        /*
+        HashMap<Integer, Integer> pokers = new HashMap<>();
+        for (int i = 1; i <= 13; i++) {
+            pokers.put(i, 4);
+        }
+        pokers.put(14, 2); // 14 代表王。
+        int[] ints = {1, 2, 3, 4, 5};
+        boolean isShunZi2 = IsShunZi2(ints);
+        System.out.println(isShunZi2);
+        System.out.println("-------------------------");
+        */
+    }
+
+    private boolean IsShunZi2(int[] ints) {
+        int blankSpace = 0;
+        int number14 = 0;
+        for (int i = 0; i < 5; i++) {
+            if (ints[i] == 14) {
+                number14++;
+            }
+        }
+        for (int i = 1; i < 5 - number14; i++) {
+            int temp = ints[i] - ints[i - 1] - 1;
+            if (temp < 0) {
+                return false;
+            } else {
+                blankSpace = blankSpace + temp;
+            }
+        }
+        if (blankSpace <= number14) {
+            return true;
+        }
+        return false;
     }
 
     /*
